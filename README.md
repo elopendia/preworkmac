@@ -1,1 +1,1 @@
-aprendiendo a subir a git mi codigo
+Aprendiendo a subir a git mi código
